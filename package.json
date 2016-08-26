@@ -1,0 +1,32 @@
+{
+  "name": "express-detector",
+  "version": "1.0.0",
+  "description": "格式化ua，format ua for express",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gavinning/express-detector.git"
+  },
+  "keywords": [
+    "express",
+    "ua",
+    "user-agent",
+    "user agent",
+    "useragent",
+    "user",
+    "agent",
+    "express-ua",
+    "express ua",
+    "express-detector",
+    "express detector"
+  ],
+  "author": "gavinning",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gavinning/express-detector/issues"
+  },
+  "homepage": "https://github.com/gavinning/express-detector#readme",
+  "dependencies": {
+    "detector": "^2.5.0"
+  }
+}
